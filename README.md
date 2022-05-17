@@ -11,6 +11,7 @@ To help you to get the most from this workshop, we recommend that you install at
 * [SAS OnDemand for Academics](https://www.sas.com/en_us/software/on-demand-for-academics.html) account (for some exercises)
 * Optional: SAS Enterprise Guide 8.2 or 8.3 with access to SAS
 * Optional: [VS Code](https://code.visualstudio.com/) -- and optionally with the [new SAS language extension](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp)
+* Optional: [GitHub Desktop](https://desktop.github.com/) - Git UI specifically for GitHub projects
 * Optional: [SAS Studio 3.8](https://support.sas.com/downloads/browse.htm?fil=&cat=560) with access to SAS
 
 ## Materials and exercises
@@ -18,7 +19,7 @@ To help you to get the most from this workshop, we recommend that you install at
 These links/materials are under construction.
 
 * Presentation slides (PDF) 
-* Exercise 01: Create your first Git project
+* Exercise 01: [Create your first Git project](./exercises/01-create-git-project.md)
 * Exercise 02: Clone an existing SAS code project
 * Exercise 03: Connect your SAS to Git (SAS Enterprise Guide)
 * Exercise 04: Connect your SAS to Git (SAS Studio)
