@@ -20,9 +20,9 @@ These links/materials are under construction.
 
 * Presentation slides (PDF) 
 * Exercise 01: [Create your first Git project](./exercises/01-create-git-project.md)
-* Exercise 02: Clone an existing SAS code project
-* Exercise 03: Connect your SAS to Git (SAS Enterprise Guide)
+* Exercise 02: [Connect your SAS to Git (SAS Enterprise Guide)](./exercises/02-connect-sas-to-git-eg.md)
 * Exercise 04: Connect your SAS to Git (SAS Studio)
+* Exercise 05: [Clone an existing SAS code project](./exercises/05-clone-sas-project.md)
 * Exercise 05: Connect your SAS to Git (SAS programming language)
 * Exercise 06: Using SAS functions to work with Git
 * Exercise 07: Using VS Code to manage SAS projects
