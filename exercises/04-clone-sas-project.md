@@ -14,6 +14,20 @@ In this exercise, we will use Git **clone** to bring an existing project from Gi
    ```
    This will create a **new ** folder with the name of the project, and place repository contents inside of it.
 
+   Change directory (cd) to the new folder:
+   ```
+   cd ./wordle-sas
+   ```
+
+4. Check repo history using the **git log** command.
+    ```
+    git log --pretty=format:"%h %ae %s"
+    ```
+    The **pretty** option specifiers can make a more concise, readable history log with certain fields. Or use the **--oneline** option for a quick view:
+    ```
+    git log --oneline
+    ```
+
 ## Open the repository with a SAS tool
 
 In this section we'll open the cloned local repo with one of our favorite SAS coding interfaces. Here we'll show SAS Enterprise Guide (v8.2 or 8.3 for best results), SAS Studio v3.8 (Basic edition installed locally), and VS Code.
@@ -53,11 +67,15 @@ Explore the repository history.
 
 ![studio explore repository](./images/studio-add-profile-5.png)
 
+## VS Code
 
-In config.properties for SAS Studio, found in %PROGRAMFILES%\SASStudioSingleUser\3.81\war\config\config.properties.
+Since we are already in the Git Bash window, the easiest way to launch VS Code for this project is from the command line:
 ```
-#--- for turning off Git username and password fields
-webdms.showGitPassword=true
-#--- for turning off Git functionality
-webdms.allowGit=true
+code .
 ```
+which will open a VS Code window for the current folder.
+
+Use the Timeline tab to explore the Git history for the project.
+
+![VS Code timeline](./images/vscode-timeline.png)
+
