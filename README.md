@@ -1,6 +1,6 @@
 # Using Git with your SAS projects
 
-This project contains supporting materials for the Git &amp; SAS hands-on workshop presented at [PharmaSUG 2022](https://www.pharmasug.org/us/index.html).
+This project contains supporting materials for the Git &amp; SAS hands-on workshop presented at [SESUG 2024](https://sesug.org/SESUG2024/index.php) (and originally at [PharmaSUG 2022](https://www.pharmasug.org/us/index.html)).
 
 ## Setup and tools
 
@@ -9,6 +9,7 @@ To help you to get the most from this workshop, we recommend that you install at
 * Git client: Install from https://www.git-scm.org/. This may require administrative privileges on your laptop to install.
 * GitHub account: free at http://www.github.com/join 
 * [SAS OnDemand for Academics](https://www.sas.com/en_us/software/on-demand-for-academics.html) account (for some exercises)
+* [SAS Viya for Learners](https://www.sas.com/en_us/software/viya-for-learners.html) account (optional, for some exercises)
 * Optional: SAS Enterprise Guide 8.2 or 8.3 with access to a SAS environment (can be local)
 * Optional: [VS Code](https://code.visualstudio.com/) -- and optionally with the [new SAS language extension](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp)
 * Optional: [GitHub Desktop](https://desktop.github.com/) - Git UI specifically for GitHub projects
