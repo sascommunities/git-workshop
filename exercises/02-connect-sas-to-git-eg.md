@@ -1,6 +1,6 @@
 # Connect SAS Enterprise Guide to your Git profile
 
-SAS Enterprise Guide supports only the HTTPS to connect to a Git server. This means you will need to supply a username and password.
+Via the UI, SAS Enterprise Guide supports only the HTTPS to connect to a Git server. This means you will need to supply a username and password. But since SAS Enterprise Guide uses a local Git client install for all Git operations, you can use any valid connection mechanism for Git integration.
 
 **Notes:**
 
