@@ -17,7 +17,8 @@ To help you to get the most from this workshop, we recommend that you install at
 
 ## Materials and exercises
 
-* [Presentation slides](./slides/Hemedinger_PharmaSUG_HoT_Git.pdf) (PDF) 
+* [SESUG 2024 Presentation slides](./slides/Hemedinger_Git-SAS-Workshop.pdf) (PDF) 
+* [PharmaSUG 2022 Presentation slides](./slides/Hemedinger_PharmaSUG_HoT_Git.pdf) (PDF) 
 * Exercise 01: [Create your first Git project](./exercises/01-create-git-project.md)
 * Exercise 02: [Connect your SAS to Git (SAS Enterprise Guide)](./exercises/02-connect-sas-to-git-eg.md)
 * Exercise 03: [Connect your SAS to Git (SAS Studio)](./exercises/03-connect-sas-to-git-studio.md)
