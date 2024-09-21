@@ -6,8 +6,8 @@ We're going to use the Git Bash shell tool, which supports UNIX-style commands. 
 
 1. On your local disk, open up a Git Bash shell and navigate to the root folder where you want to work. Then, create a new directory and change (cd) into it. (This will be the directory we work in unless otherwise specified). An example is shown below.
    ```
-   mkdir pharmasug
-   cd pharmasug
+   mkdir sesug
+   cd sesug
    ```
 
    Verify that the current folder is **not** tracked by Git by running the **git status** command.
